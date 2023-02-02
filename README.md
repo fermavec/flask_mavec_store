@@ -1,4 +1,6 @@
 # Flask App
+<br></br>
+<br></br>
 
 Con el archivo __init__.py en la carpeta app estamos dando a entender que la carpeta app funcionará como un paquete lo cual nos permitirá importar todo lo que esta dentro de la carpeta de forma directa.
 <br></br>
